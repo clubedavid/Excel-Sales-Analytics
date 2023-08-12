@@ -24,11 +24,11 @@
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
-- [x]	Utilizing Pivot Tables to Generate information.
+- [x]	Utilizing Pivot Tables to Generate Information.
 - [x] Utilizing Charts to create different visuals.	
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Developing a systematic approach to devising a report-building plan.
