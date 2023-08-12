@@ -5,7 +5,9 @@
 
     **1.** Create a [Customer_perfomance_report](https://github.com/clubedavid/Excel-Sales-Analytics/blob/main/Sales_report_final.pdf) 
 
-    **2.** Conduct a comprehensive comparison between _[Net Sales and COGS](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[Net Sales and COGS](https://github.com/clubedavid/Excel-Sales-Analytics/blob/main/P%26L%20Markets_graphs.pdf)_
+
+    **3.** Create an individual [Report for Portugal] 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
